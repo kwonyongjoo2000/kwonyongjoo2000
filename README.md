@@ -3,8 +3,6 @@
 ## Certificates
 **IBM Data Science Professional Certificate**
 
-**GIS, Mapping, and Spatial Analysis Specialization Certificate** 
-
 ## Skills
 * Programming: Python, SQL, R, HTML, CSS, JavaScript
 * Data Analysis Tools/Software: Microsoft Office Suite, Google Workspace, Pandas, NumPy Matplotlib, GIS
